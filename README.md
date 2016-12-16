@@ -1,5 +1,5 @@
 #Data Acquisition using LabVIEW
-This is the code repository for [Data Acquisition using LabVIEW](https://www.packtpub.com/big-data-and-business-intelligence/data-acquisition-using-labview?utm_source=github&utm_medium=repository&utm_campaign=9781782172161), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Data Acquisition using LabVIEW](https://www.packtpub.com/big-data-and-business-intelligence/data-acquisition-using-labview?utm_source=github&utm_medium=repository&utm_campaign=9781782172161), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 NI LabVIEW's intuitive graphical interface eliminates the steep learning curve associated with text-based languages such as C or C++. LabVIEW is a proven and powerful integrated development environment to interact with measurement and control hardware, analyze data, publish results, and distribute systems.
 
