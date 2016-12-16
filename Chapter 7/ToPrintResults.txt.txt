@@ -1,0 +1,34 @@
+Response1{
+Result1=PASSED
+Result2=5.76 volts
+Result3=90%
+Result4=AD23ED
+}
+
+Response2{
+Result1=PASSED
+Result2=3.56 volts
+Result3=100%
+Result4=G65FBD
+}
+
+Response3{
+Result1=FAILED
+Result2=1.45 volts
+Result3=75%
+Result4=BEA85F
+}
+
+Response4{
+Result1=PASSED
+Result2=5.23 volts
+Result3=92%
+Result4=E900AB1
+}
+
+Response5{
+Result1=FAILED
+Result2=3.29 volts
+Result3=54%
+Result4=0485AE
+}

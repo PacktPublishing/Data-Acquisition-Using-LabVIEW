@@ -1,0 +1,15 @@
+References 
+Data Transformation http://help.azureml.net/Content/html/9C2844B8-7A4C-483B-848A-E35A27855716.htm 
+
+Feature Selection
+http://help.azureml.net/Content/html/CC98F178-B2ED-44A0-8B35-8D02B266F20B.htm 
+http://en.wikipedia.org/wiki/Feature_selection 
+Outliners
+http://www.mathwords.com/o/outlier.htm
+LDA
+http://en.wikipedia.org/wiki/Linear_discriminant_analysis 
+
+Blog Post, Data Preparation
+http://bluewatersql.wordpress.com/2014/08/24/azure-machine-learning-data-preparation/
+http://www.mund-consulting.com/Blog/Posts/preprocessing-data-azure-ml-studio.htm
+http://www.mund-consulting.com/Blog/Posts/missing-value-handling.htm 

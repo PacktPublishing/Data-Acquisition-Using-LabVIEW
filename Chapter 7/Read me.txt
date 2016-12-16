@@ -1,0 +1,12 @@
+Read Me File
+
+As of this version file path are manually set
+
+In Network Connectivity
+
+C:\Users\barddya\Desktop\Tesla\List_of_IPs.txt
+
+Text Base Comm
+
+C:\Users\barddya\Desktop\Tesla\test2.txt
+
